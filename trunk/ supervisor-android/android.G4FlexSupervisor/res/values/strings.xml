@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidProjetoBetaActivity!</string>
+    <string name="app_name">AndroidProjetoBeta</string>
+    <string name="Show">Show</string>
+    <string name="Back">Back</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="G4Flex_Sup">  G4Flex_Sup</string>
+    <string name="G4Flex_Manager">G4Flex Manager</string>
+    <string name="Manager">Manager</string>
+    <string name="Supervisor">Supervisor</string>
+    <string name="G4Flex_Supervisor">G4Flex Supervisor</string>
+    <string name="user">projetoios</string>
+    <string name="password">segredotst</string>
+    <string name="host">10.20.0.152</string>
+    <string name="port">5038</string>
+
+</resources>
